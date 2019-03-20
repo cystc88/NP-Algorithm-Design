@@ -1,4 +1,4 @@
-# Algorithm-Design-Course
+# NP Algorithm-Design
 ## Traveling-Salesperson-Problem
 The Traveling Salesperson Problem (TSP) arises in numerous applications such as vehicle routing, circuit board drilling, VLSI design, robot control, X-ray crystallography, machine scheduling and computational biology. In this project, you will attempt to solve the TSP using different algorithms, evaluating their theoretical and experimental complexities on both real and random datasets.
 
